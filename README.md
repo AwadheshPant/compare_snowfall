@@ -20,4 +20,4 @@ the variation of flight values plotted on the y-axis with means plotted as green
 triangles. The corresponding ERA5 values to these mean values are plotted on
 x-axis.
 
-![Example for a segment resampling](compare_snowfall/image(1).png)
+![Example for a segment resampling](image (1).png)
